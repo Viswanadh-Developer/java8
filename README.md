@@ -1,1 +1,1 @@
-This repository is about java8 tutorials
+This repository is about java8 basics tutorials
